@@ -1,0 +1,213 @@
+Victim-Kurban
+Belt-Kemer
+Below-Altýnda
+Powder-Pudra
+Trust-Güven
+Vary-Farklýlýk Göstermek
+Wise-Bilge
+Withered-Solmuþ
+Pale-Soluk
+Scream-Çýðlýk
+Train(n)-Tren
+Arrest-Tutuklamak
+Train(v)-Antrenman Yapmak
+Trainer-Antrenör
+Training-Antrenman
+Trainee(n)-Eðitilen Kiþi
+Employ(v)-Ýþ Vermek
+Employer(n)-Ýþ Veren
+Employment(n)-Ýþ
+Employee(n)-Ýþi Alan
+Employed(adj)-Ýþ Sahibi
+Unemployed(adj)-Ýþsiz
+Unemployment(n)-Ýþsizlik
+Behaviour-Davranýþ
+Hunt-Avlamak
+Meeting(n)-Buluþma
+Above-Yukarýdaki
+Desert-Çöl
+Dessert-Tatlý
+Company-Þirket
+Company2-Arkadaþ
+Disaster-Afet
+Patient-Hasta
+Insurance-Sigorta
+Healthcare-Saðlýk Hizmeti
+Fresh-Taze
+Recommend-Önermek
+Recommendation-Öneri
+Rock-Kaya
+Stone-Taþ
+Control(n)-Kontrol
+Anxious-Endiþeli
+Enthusiastic-Hevesli
+Fortunate-Þanslý
+Revenge-Ýntikam
+Experience-Deneyimli
+Experiment-Deney
+Wonder-Merak Etmek
+Wound-Yara
+Brain-Beyin
+Casual-Gündelik
+Expensive-Pahalý
+Dress-Elbise
+Tie-Kravat
+Suit-Takým Elbise
+Shoes-Ayakkabý
+Trainers-Spor Ayakkabý
+Tracksuit-Eþofman Takýmý
+Neck-Boyun
+Stare-Dik Dik Bakmak
+Dairy-Mandýra
+Innocent-Masum
+Veil-Duvak
+Men-Erkekler
+Women-Kadýnlar
+Man-Erkek
+Woman-Kadýn
+See v2-Saw
+Take v2-Took
+Buy v2-Bought
+Spend v2-Spent
+If-Eðer
+Observatory-Rasathane
+During-E Boyunca
+Until-E Kadar
+Arrive-Varmak
+Arrive v2-Arrived
+Have v2-Had
+Have-Sahip Olmak
+Own-Kendi
+Owner-Sahibi
+Pear-Armut
+Appear-Görünmek
+Uncover-Ortaya Çýkmak
+Disappear-Ortadan Kaybolmak
+Impression-Ýzlenim
+Investigate-Ýncelemek
+Phone-Telefon Etmek
+Exchange-Karþýlýklý Yapmak
+Feedback-Geri Bildirim
+Access-Giriþ
+Type-Yazmak
+Belong-Ait
+Seperating-Ayýrmak
+Enemy-Düþman
+Haunted-Perili
+Lead-Öncülük Etmek
+Miraculous-Mucizevi
+Miracle-Mucize
+Predict-Öngörmek
+Prediction-Öngörü
+At Least-En Azýndan
+Cure-Çare
+Curse-Lanet
+Cruel-Acýmasýz
+Laugh-Gülmek
+Fewer-Daha Az
+Narrow-Dar
+Arson-Kundakçýlýk
+Hearing-Duruþma
+Prove-Kanýtlamak
+Believe-Ýnanmak
+Heavy-Aðýr
+Hang-Asmak
+Hanger-Aský
+Hangman-Cellat
+Jail-Hapishane
+Wasted-Ýsraf
+Shiver-Titreme
+Tears-Gözyaþý
+Whisper-Fýsýltý
+Strange-Garip
+Stranger-Yabancý
+Benefit-Yarar
+Compatible-Uyumlu
+Label-Etiket
+Irritate-Rahatsýz Etmek
+Crowd-Kalabalýk
+Perhaps-Belki
+Still-Yine
+Rude-Kaba
+Few-Az
+Both-Her Ýkiside
+Carry-Taþýmak
+Change-Deðiþtirmek
+Complain-Þikayet Etmek
+Suggest-Önermek
+Suggestion-Öneri
+Tidy-Düzenli
+Use-Kullanma
+Darkness-Karanlýk
+Pollute-Kirletmek
+Polluted-Kirlenmiþ
+Statue-Heykel
+Temple-Tapýnak
+Church-Kilise
+Mosque-Camii
+Belt-Kemer
+Boots-Bot
+Generous-Cömert
+Shy-Utangaç
+Extrovert-Dýþa Dönük
+Clever-Zeki
+Stupid-Aptal
+Arrival-Varýþ
+Departure-Kalkýþ
+Baggage drop_off-Bagaj Býrakma
+Baggage Reclaim-Bagaj Hakký
+Facility-Tesis
+Delay-Gecikme
+Queue-Kuyruk
+In fact-Aslýnda
+Dependent-Baðýmlý
+Visit-Ziyaret
+Build-Ýnþa Etmek
+Borrow-Ödünç Almak
+Put on-Giymek
+Miss (Something)-Kaçýrmak
+Anything-Her Hangibirþey
+Pass-Geçmek
+Place-Yer
+Similar-Benzer
+Compatible-Uyumlu
+Rebel-Asi
+Bother-Zahmet
+Nervous-Sinirli
+Expect-Beklemek
+Expert-Uzman
+Nobody-Kimse
+Something-Birþeyler
+Jealous-Kýskanç
+Adopt-Benimsemek
+Reputation-Ýtibar
+Property-Özellik
+Worth-Deðer
+Absolutely-Kesinlikle
+Notice-Ýhbar
+Contest-Yarýþma
+Audience-Seyirci
+Essay-Deneme
+Recent-Son
+Escape-Kaçýþ
+Through-Vasýtasýyla
+Unusual-Olaðandýþý
+Survey-Anket
+Crime-Suç
+Compare-Karþýlaþtýrmak
+Enough-Yeterli
+Brake-Fren
+Wheel-Tekerlek
+Survive-Hayatta Kalmak
+Probably-Muhtemelen
+Prefer-Tercih Etmek
+Attachment-Ek Dosya
+Story-Hikaye
+Suddenly-Aniden
+Spooky-Ürkütücü
+Vegetation-Bitki Örtüsü
+Above-Yukarýda
+Result-Sonuç
+Flexible-Esnek
+Accommodation-Konaklama
+Ýnvent-Ýcat Etmek
